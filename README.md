@@ -31,5 +31,4 @@ I also helped lead my company’s transition from Flash to HTML5 development and
 JavaScript • TypeScript • PixiJS • WebGL • HTML5 Canvas • Node.js • React • Vue • Cordova • Web Audio API • Webpack • GSAP
 
 ## Links
-Email: me@gmail.com
 LinkedIn: linkedin.com/in/kyfoote
